@@ -1,2 +1,5 @@
 this is first line
 updated file1 added 2nd line
+this is 3rd line
+and 4th line
+this is again 5th line which is new
